@@ -1,0 +1,5 @@
+﻿  StringPrintf.c
+C:\Users\User\source\repos\HelloC\HelloC\StringPrintf.c(10,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\source\repos\HelloC\HelloC\StringPrintf.c(12,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\source\repos\HelloC\HelloC\StringPrintf.c(14,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HelloC.vcxproj -> C:\Users\User\source\repos\HelloC\x64\Debug\HelloC.exe

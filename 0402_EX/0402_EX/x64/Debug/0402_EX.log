@@ -1,0 +1,10 @@
+﻿  Ex02.c
+C:\Users\User\source\repos\0402_EX\0402_EX\Ex02.c(8,8): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned short *'입니다.
+  C:\Users\User\source\repos\0402_EX\0402_EX\Ex02.c(8,8):
+  서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\User\source\repos\0402_EX\0402_EX\Ex02.c(8,8): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'unsigned short *'입니다.
+  C:\Users\User\source\repos\0402_EX\0402_EX\Ex02.c(8,8):
+  서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+  
+  0402_EX.vcxproj -> C:\Users\User\source\repos\0402_EX\x64\Debug\0402_EX.exe
