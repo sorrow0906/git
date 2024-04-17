@@ -29,10 +29,10 @@ int maxMulti(int num1, int num2) {
 
 	for (int i = 0; i < count1; i++) {
 		for (int j = 0; j < count2; j++) {
-
+			if (arr1 == arr2)
+				;
 		}
 	}
-	
 }
 
 int main(){

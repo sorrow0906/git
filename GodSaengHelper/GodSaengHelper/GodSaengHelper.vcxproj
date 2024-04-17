@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2090a004-267d-4b51-9015-69caa91da55b}</ProjectGuid>
-    <RootNamespace>psnEx20</RootNamespace>
+    <ProjectGuid>{57b769e9-4b6c-496e-897c-61b08f29ded0}</ProjectGuid>
+    <RootNamespace>GodSaengHelper</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
